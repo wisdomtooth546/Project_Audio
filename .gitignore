@@ -1,0 +1,8 @@
+/.config
+/.ipynb_checkpoints
+/.vscode
+/Audio Analysis.ipynb
+/MachineLearningNotebooks
+/config.json
+/outputs
+/test.py
